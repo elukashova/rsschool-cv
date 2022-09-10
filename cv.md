@@ -5,8 +5,8 @@
 - **Phone number:** +39 334 861 8050
 - **E-mail:** ele.lukashova@gmail.com
 - **Discord:** elukashova
-- **[Linkedin](https://www.linkedin.com/in/elenalukashova/)**
-******
+- [Linkedin](https://www.linkedin.com/in/elenalukashova/)
+*****
 ## About me
 After numerous years of working in advertising, I feel it's time for me to move forward and explore new horizons.
 
@@ -28,10 +28,11 @@ const reverseSeq = n => {
   }
   return arr;
 };
-````
+```
 *****
 ## Work experience
 <sub>Looking forward to having something to write here</sub>
+
 *****
 ## Education
 **Courses:**
