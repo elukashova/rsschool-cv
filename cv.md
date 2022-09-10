@@ -6,7 +6,7 @@
 - **E-mail:** ele.lukashova@gmail.com
 - **Discord:** elukashova
 - **[Linkedin](https://www.linkedin.com/in/elenalukashova/)**
-*****
+******
 ## About me
 After numerous years of working in advertising, I feel it's time for me to move forward and explore new horizons.
 
@@ -34,12 +34,12 @@ const reverseSeq = n => {
 <sub>Looking forward to having something to write here</sub>
 *****
 ## Education
-**Courses:** 
+**Courses:**
 - Meta Front-End Developer Professional Certificate on [Coursera](https://www.coursera.org/professional-certificates/meta-front-end-developer) _(in progress)_
 - [JavaScript](https://learn.javascript.ru/) _(self-learning_)
 - "JavaScript/Front-end" by RS School _(in progress)_
 
-**University:** 
+**University:**
 - Master's Degree in International Management (Università Cattolica del Sacro Cuore, Milan)
 - Bachelor's Degree in Foreign Languages & Communication (Università Cattolica del Sacro Cuore, Milan)
 *****
