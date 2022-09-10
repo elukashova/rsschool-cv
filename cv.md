@@ -46,5 +46,5 @@ const reverseSeq = n => {
 ## Languages
 - **English:** fluent
 - **Italian:** fluent
-- **German:** basic
 - **Russian:** mother tongue
+- **German:** basic
